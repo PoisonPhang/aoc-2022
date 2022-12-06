@@ -28,6 +28,7 @@ library
                       Day03.Rucksack
                       Day04.Ranges
                       Day05.Crates
+                      Day06.Packets
 
     -- Modules included in this library but not exported.
     -- other-modules:
