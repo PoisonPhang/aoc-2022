@@ -27,6 +27,7 @@ library
                       Day02.RockPaperScissors
                       Day03.Rucksack
                       Day04.Ranges
+                      Day05.Crates
 
     -- Modules included in this library but not exported.
     -- other-modules:
